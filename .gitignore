@@ -1,0 +1,15 @@
+# List of files to Ignore
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# cache / hidden system files
+__pycache__/
+.DS_Store
+
+# Ignore folder 
+mecab-0.996
+
+# Ignore zip data
+*.tar.gz
+
